@@ -50,7 +50,7 @@
  <br>
   — Ex dona de bar e bartender. 
  <br>
- — Antiga faixa roxa de carate.
+ — Antiga faixa roxa de Karatê.
  <br>
   — Amante de livros de fantasia e romance.
  <br>
