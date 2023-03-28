@@ -17,6 +17,9 @@
  
 ##
 </div>
+<div>
+<img align="right" alt="Alice-fofa" height="30%" width="30%" src="https://i.picasion.com/pic92/a3c2711313108c200800ef7c418a4ca2.gif">
+ </div>
 
 ### Para Saber mais sobre mim, segue minhas redes abaixo! 😉
 ##
@@ -28,8 +31,8 @@
    <a href = "https://www.linkedin.com/in/alice-dev-dd34/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">      </a>
    <a href="https://discord.gg/MnkdrXBPHH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"        target="_blank"></a>
    <a href = "mailto:alice.silva.dev1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">      </a>
-   <img align="right" alt="Alice-fofa" height="30%" width="30%" src="https://i.picasion.com/pic92/a3c2711313108c200800ef7c418a4ca2.gif">
+
    
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
 </div>
