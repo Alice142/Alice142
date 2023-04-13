@@ -5,7 +5,7 @@
  <div align="center">
     <a href="https://github.com/Alice142">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Alice142&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice142&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice142&layout=compact&langs_count=6&theme=synthwave"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -76,7 +76,7 @@
  <div>
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Alice142&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
  
- ![Snake animation](https://github.com/Alice142/Alice142//blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
     
    
