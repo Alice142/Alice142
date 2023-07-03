@@ -3,8 +3,8 @@
 <br>
  <div align="center">
     <a href="https://github.com/Alice142">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilith-alya&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilith-alya&layout=compact&langs_count=6&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alice142&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice142&layout=compact&langs_count=6&theme=synthwave"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
