@@ -16,7 +16,6 @@
  <img align="center" alt="7s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="git" height="30" width="40" src="https://icongr.am/feather/github.svg?size=129&color=currentColor">
 </div>
@@ -38,7 +37,7 @@
    <br>
     Ex estudante de direito e psicologia, mas me apaixonei pela programação.
    <br>
-    Atualmente estou estudando tapescript, Node.JS e SQL.
+    Atualmente estou estudando JS e React.
    <br>
    <br>
 </div>
