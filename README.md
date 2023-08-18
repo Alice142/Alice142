@@ -1,8 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Alice+Silva"/>
  <a href="https://github.com/isabelpaiva">
     <img src="https://komarev.com/ghpvc/?username=Alice142m&color=ff69b4&)" /> 
+   <br><br><br><br>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+:%29;Sou+uma+desenvolvedora+front-end;sinta-se+à+vontade+para+conhecer+meus+repositórios;Aqui+abaixo+são+algumas+informações+sobre+mim.)](https://git.io/typing-svg)
+
   </a>
-<div align="center">  
-  <img align="center" alt="Alice-fofa" height="60%" width="60%" src="https://cdn.discordapp.com/attachments/927213659317481512/1090394496526717051/pngegg.png">
+
+ <br>
 <br>
   
  <div align="center">
@@ -81,4 +86,4 @@
  
 </div>
     
-   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
